@@ -436,7 +436,7 @@ namespace mbit_电机类 {
 }
 
 //% color="#006400" weight=20 icon="\uf1b9"
-namespace mbit_小车类 {
+namespace os_smart_drive {
 
     const PCA9685_ADD = 0x41
     const MODE1 = 0x00
